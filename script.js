@@ -2,6 +2,7 @@ const links = [
   "https://fausto-la-1592.github.io/trelewciudad1/",
   "https://fausto-la-1592.github.io/trelewciudad2/",
   "https://fausto-la-1592.github.io/trelewciudad3/",
+  "https://fausto-la-1592.github.io/defectoslaguna/"
 ];
 
 const tarjetas = document.querySelectorAll(".tarjeta");
